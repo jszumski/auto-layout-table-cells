@@ -1,0 +1,95 @@
+{
+    "messages": [
+		{
+			"uniqueIdentifier": 6,
+			"username": "@BobJones",
+			"messageText": "Check out this great picture I took at the beach!",
+			"messageDate": 1375999999,
+			"hasMedia": true
+		},
+		{
+			"uniqueIdentifier": 5,
+			"username": "@BobJones",
+			"messageText": "Tonight's dinner: spaghetti and meatballs",
+			"messageDate": 1375992146,
+			"hasMedia": true
+		},
+		{
+			"uniqueIdentifier": 4,
+			"username": "@BobJones",
+			"messageText": "It's going to be a long 4 hour drive to the coast.",
+			"messageDate": 1375892146,
+			"hasMedia": false
+		},
+		{
+			"uniqueIdentifier": 3,
+			"username": "@BobJones",
+			"messageText": "Oops, hit post too quickly.",
+			"messageDate": 1374892140,
+			"hasMedia": false
+		},
+		{
+			"uniqueIdentifier": 2,
+			"username": "@BobJones",
+			"messageText": "",
+			"messageDate": 1374892130,
+			"hasMedia": false
+		},
+		{
+			"uniqueIdentifier": 7,
+			"username": "@BobJones",
+			"messageText": "",
+			"messageDate": 1374892130,
+			"hasMedia": true
+		},
+		{
+			"uniqueIdentifier": 1,
+			"username": "@BobJones",
+			"messageText": "Where should we go on vacation?  We're trying to decide between the mountains, lake, or the beach.  Don't want to put too many miles on the car though...",
+			"messageDate": 1370892146,
+			"hasMedia": false
+		},
+		{
+			"uniqueIdentifier": 6,
+			"username": "@BobJones",
+			"messageText": "Check out this great picture I took at the beach!",
+			"messageDate": 1375999999,
+			"hasMedia": true
+		},
+		{
+			"uniqueIdentifier": 5,
+			"username": "@BobJones",
+			"messageText": "Tonight's dinner: spaghetti and meatballs",
+			"messageDate": 1375992146,
+			"hasMedia": true
+		},
+		{
+			"uniqueIdentifier": 4,
+			"username": "@BobJones",
+			"messageText": "It's going to be a long 4 hour drive to the coast.",
+			"messageDate": 1375892146,
+			"hasMedia": false
+		},
+		{
+			"uniqueIdentifier": 3,
+			"username": "@BobJones",
+			"messageText": "Oops, hit post too quickly.",
+			"messageDate": 1374892140,
+			"hasMedia": false
+		},
+		{
+			"uniqueIdentifier": 2,
+			"username": "@BobJones",
+			"messageText": "",
+			"messageDate": 1374892130,
+			"hasMedia": false
+		},
+		{
+			"uniqueIdentifier": 1,
+			"username": "@BobJones",
+			"messageText": "Where should we go on vacation?  We're trying to decide between the mountains, lake, or the beach.  Don't want to put too many miles on the car though...",
+			"messageDate": 1370892146,
+			"hasMedia": false
+		}
+	]
+}
